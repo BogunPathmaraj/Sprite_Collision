@@ -1,0 +1,7 @@
+C:\Users\Bogun26\Desktop\Winter 2021\Programming 2\BogunP_300829172_A1\bin\Debug\BogunP_300829172_A1.exe.config
+C:\Users\Bogun26\Desktop\Winter 2021\Programming 2\BogunP_300829172_A1\bin\Debug\BogunP_300829172_A1.exe
+C:\Users\Bogun26\Desktop\Winter 2021\Programming 2\BogunP_300829172_A1\bin\Debug\BogunP_300829172_A1.pdb
+C:\Users\Bogun26\Desktop\Winter 2021\Programming 2\BogunP_300829172_A1\obj\Debug\BogunP_300829172_A1.csprojAssemblyReference.cache
+C:\Users\Bogun26\Desktop\Winter 2021\Programming 2\BogunP_300829172_A1\obj\Debug\BogunP_300829172_A1.csproj.CoreCompileInputs.cache
+C:\Users\Bogun26\Desktop\Winter 2021\Programming 2\BogunP_300829172_A1\obj\Debug\BogunP_300829172_A1.exe
+C:\Users\Bogun26\Desktop\Winter 2021\Programming 2\BogunP_300829172_A1\obj\Debug\BogunP_300829172_A1.pdb
